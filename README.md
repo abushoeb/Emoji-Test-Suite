@@ -1,4 +1,4 @@
-# Emoji Test Suite 👍 😄 
+# Emoji Test Suite 👨🏽‍🔬 
 Assessing Emoji Use in Modern Text Processing Tools
 
 ### Results available for the following tasks:
