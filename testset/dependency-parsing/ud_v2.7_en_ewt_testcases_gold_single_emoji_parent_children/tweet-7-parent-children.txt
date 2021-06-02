@@ -1,0 +1,4 @@
+🎶	NN	16	compound
+🎶	NN	16	compound
+and	CC	16	cc
+🎶	NN	16	compound

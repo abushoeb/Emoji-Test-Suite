@@ -1,0 +1,14 @@
+# text = Needs to go to $41 and then I will be happy.
+1	Needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	to	to	PART	TO	_	3	mark	3:mark	_
+3	go	go	VERB	VB	VerbForm=Inf	1	xcomp	1:xcomp	_
+4	to	to	ADP	IN	_	5	case	5:case	_
+5	$	$	SYM	$	_	3	obl	3:obl:to	SpaceAfter=No
+6	41	41	NUM	CD	NumType=Card	5	nummod	5:nummod	_
+7	and	and	CCONJ	CC	_	12	cc	12:cc	_
+8	then	then	ADV	RB	PronType=Dem	12	advmod	12:advmod	_
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
+10	will	will	AUX	MD	VerbForm=Fin	12	aux	12:aux	_
+11	be	be	AUX	VB	VerbForm=Inf	12	cop	12:cop	_
+12	happy	happy	ADJ	JJ	Degree=Pos	1	conj	1:conj:and	SpaceAfter=No
+13	.	.	PUNCT	.	_	1	punct	1:punct	_

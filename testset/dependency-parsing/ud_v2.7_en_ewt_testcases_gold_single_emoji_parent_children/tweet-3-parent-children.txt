@@ -1,0 +1,3 @@
+🇻🇳	NNP	7	obl
+served	VBD	3	ccomp
+in	IN	9	case

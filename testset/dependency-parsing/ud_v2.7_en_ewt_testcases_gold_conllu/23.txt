@@ -1,0 +1,11 @@
+# text = Waterproof clothing and footwear are essential plus an umbrella..
+1	Waterproof	waterproof	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	clothing	clothing	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
+3	and	and	CCONJ	CC	_	4	cc	4:cc	_
+4	footwear	footwear	NOUN	NN	Number=Sing	2	conj	2:conj:and|6:nsubj	_
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+6	essential	essential	ADJ	JJ	Degree=Pos	0	root	0:root	_
+7	plus	plus	CCONJ	CC	_	9	cc	9:cc	_
+8	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+9	umbrella	umbrella	NOUN	NN	Number=Sing	4	conj	4:conj:plus	SpaceAfter=No
+10	..	..	PUNCT	.	_	6	punct	6:punct	_

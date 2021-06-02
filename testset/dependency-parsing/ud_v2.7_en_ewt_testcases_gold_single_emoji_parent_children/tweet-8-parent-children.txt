@@ -1,0 +1,2 @@
+💀	NN	5	compound
+penalty	NN	3	nsubj

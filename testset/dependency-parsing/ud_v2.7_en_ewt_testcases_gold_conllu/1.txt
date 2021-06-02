@@ -1,0 +1,24 @@
+# text = Elena's motorcycle tour through the region around Chernobyl has revived interest in one of the most serious nuclear disasters in history.
+1	Elena	Elena	PROPN	NNP	Number=Sing	4	nmod:poss	4:nmod:poss	_
+2	's	's	PART	POS	_	1	case	1:case	_
+3	motorcycle	motorcycle	NOUN	NN	Number=Sing	4	compound	4:compound	_
+4	tour	tour	NOUN	NN	Number=Sing	11	nsubj	11:nsubj	_
+5	through	through	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	region	region	NOUN	NN	Number=Sing	4	nmod	4:nmod:through	_
+8	around	around	ADP	IN	_	9	case	9:case	_
+9	Chernobyl	Chernobyl	PROPN	NNP	Number=Sing	7	nmod	7:nmod:around	_
+10	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
+11	revived	revive	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+12	interest	interest	NOUN	NN	Number=Sing	11	obj	11:obj	_
+13	in	in	ADP	IN	_	14	case	14:case	_
+14	one	one	NUM	CD	NumType=Card	12	nmod	12:nmod:in	_
+15	of	of	ADP	IN	_	20	case	20:case	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
+17	most	most	ADV	RBS	_	18	advmod	18:advmod	_
+18	serious	serious	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
+19	nuclear	nuclear	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
+20	disasters	disaster	NOUN	NNS	Number=Plur	14	nmod	14:nmod:of	_
+21	in	in	ADP	IN	_	22	case	22:case	_
+22	history	history	NOUN	NN	Number=Sing	14	nmod	14:nmod:in	SpaceAfter=No
+23	.	.	PUNCT	.	_	11	punct	11:punct	_

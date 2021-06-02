@@ -1,0 +1,6 @@
+❤️	VBP	0	root
+Hey	UH	4	discourse
+I	PRP	4	nsubj
+just	RB	4	advmod
+blog	NN	4	obj
+.	.	4	punct

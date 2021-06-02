@@ -1,0 +1,2 @@
+🎄	NNP	12	compound
+holidays	NNS	8	conj

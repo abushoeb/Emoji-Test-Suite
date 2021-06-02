@@ -1,0 +1,7 @@
+🕌	NNS	3	obl
+operates	VBZ	0	root
+mostly	RB	6	advmod
+through	IN	6	case
+madrasas	NNS	6	conj
+establishments	NNS	6	conj
+inciting	VBG	6	conj

@@ -1,0 +1,4 @@
+☂️	NN	4	conj
+footwear	NN	2	conj
+plus	CC	9	cc
+an	DT	9	det

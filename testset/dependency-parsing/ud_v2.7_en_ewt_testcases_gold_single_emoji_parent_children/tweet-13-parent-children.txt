@@ -1,0 +1,4 @@
+🥪	NNS	16	obj
+loved	VBD	2	conj
+their	PRP$	21	nmod:poss
+turkey	NN	21	compound

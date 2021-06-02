@@ -1,0 +1,19 @@
+# text = I went across the bay last night to attend a farmer's market and music event.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	across	across	ADP	IN	_	5	case	5:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	bay	bay	NOUN	NN	Number=Sing	2	obl	2:obl:across	_
+6	last	last	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	night	night	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	attend	attend	VERB	VB	VerbForm=Inf	2	advcl	2:advcl:to	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
+11-12	farmer's	_	_	_	_	_	_	_	_
+11	farmer	farmer	NOUN	NN	Number=Sing	13	nmod:poss	13:nmod:poss	_
+12	's	's	PART	POS	_	11	case	11:case	_
+13	market	market	NOUN	NN	Number=Sing	9	obj	9:obj	_
+14	and	and	CCONJ	CC	_	16	cc	16:cc	_
+15	music	music	NOUN	NN	Number=Sing	16	compound	16:compound	_
+16	event	event	NOUN	NN	Number=Sing	13	conj	9:obj|13:conj:and	SpaceAfter=No
+17	.	.	PUNCT	.	_	2	punct	2:punct	_

@@ -1,0 +1,3 @@
+🌧️	NN	9	obl
+plant	VB	7	xcomp
+before	IN	16	case

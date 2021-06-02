@@ -1,0 +1,2 @@
+🏍️	NN	4	compound
+tour	NN	11	nsubj

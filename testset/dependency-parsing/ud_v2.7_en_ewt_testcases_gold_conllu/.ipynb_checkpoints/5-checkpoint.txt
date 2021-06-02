@@ -1,0 +1,13 @@
+# text = When the cities are on fire with the burning flesh of men
+1	When	when	SCONJ	WRB	PronType=Int	6	mark	6:mark	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	cities	city	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+5	on	on	ADP	IN	_	6	case	6:case	_
+6	fire	fire	NOUN	NN	Number=Sing	0	root	0:root	_
+7	with	with	ADP	IN	_	10	case	10:case	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+9	burning	burn	VERB	VBG	VerbForm=Ger	10	amod	10:amod	_
+10	flesh	flesh	NOUN	NN	Number=Sing	6	obl	6:obl:with	_
+11	of	of	ADP	IN	_	12	case	12:case	_
+12	men	man	NOUN	NNS	Number=Plur	10	nmod	10:nmod:of	_

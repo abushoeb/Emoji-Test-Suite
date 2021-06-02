@@ -1,0 +1,12 @@
+# text = Just remember that death is not the end - Bob Dylan
+1	Just	just	ADV	RB	_	2	advmod	2:advmod	_
+2	remember	remember	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+3	that	that	SCONJ	IN	_	8	mark	8:mark	_
+4	death	death	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	_
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+6	not	not	PART	RB	_	8	advmod	8:advmod	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	end	end	NOUN	NN	Number=Sing	2	ccomp	2:ccomp	_
+9	-	-	PUNCT	NFP	_	10	punct	10:punct	_
+10	Bob	Bob	PROPN	NNP	Number=Sing	2	parataxis	2:parataxis	_
+11	Dylan	Dylan	PROPN	NNP	Number=Sing	10	flat	10:flat	_

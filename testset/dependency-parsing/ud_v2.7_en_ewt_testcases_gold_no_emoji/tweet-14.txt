@@ -1,0 +1,7 @@
+Chicken	NNP	2	compound
+salad	NN	3	compound
+salad	NN	5	nsubj
+is	VBZ	5	cop
+great	JJ	0	root
+too	RB	5	advmod
+.	.	5	punct

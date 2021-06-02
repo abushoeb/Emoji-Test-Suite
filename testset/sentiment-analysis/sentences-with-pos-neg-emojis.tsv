@@ -1,0 +1,15 @@
+text	text_label	pos_emoji	pos_score	pos_unicode	neg_emoji	neg_score	neg_unicode
+They decided to release it	neutral	😍	0.678	1f60d	👎🏿	-0.188	1f44e-1f3ff
+Let's go for it	neutral	💃	0.734	1f483	😩	-0.368	1f629
+I'll explain it later	neutral	😊	0.644	1f60a	👎	-0.188	1f44e
+Childhood is the time to play	neutral	😁	0.449	1f601	😒	-0.374	1f612 
+There is a book on the desk	neutral	😁	0.449	1f601	😒	-0.374	1f612
+The car is red	neutral	👍	0.521	1f44d	😿	-0.372	1f63f
+This month is December	neutral	👍	0.521	1f44d	😿	-0.372	1f63f
+This is the end	neutral	😍	0.678	1f60d	😩	-0.368	1f629
+This is a parking lot	neutral	👍	0.521	1f44d	👎	-0.188	1f44e
+Here Sunday is the beginning of the week	neutral	👍	0.521	1f44d	👎	-0.188	1f44e
+No one is responsible for this	positive	👍	0.521	1f44d	😿	-0.372	1f63f
+It's good that they have a direct flight now	positive	😍	0.678	1f60d	😩	-0.368	1f629
+Monday is the new beginning	positive	💃	0.734	1f483	😩	-0.368	1f629
+My passport is expired by little over a month	negative	😁	0.449	1f601	😒	-0.374	1f612

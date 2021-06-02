@@ -1,0 +1,7 @@
+😃	JJ	1	conj
+Needs	VBZ	0	root
+and	CC	12	cc
+then	RB	12	advmod
+I	PRP	12	nsubj
+will	MD	12	aux
+be	VB	12	cop

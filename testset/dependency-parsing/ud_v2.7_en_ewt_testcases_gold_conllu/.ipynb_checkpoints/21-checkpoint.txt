@@ -1,0 +1,22 @@
+# text = This circle operates mostly through mosques, madrasas and other religious establishments but also through inciting electronic and printed media.
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
+2	circle	circle	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	operates	operate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	mostly	mostly	ADV	RB	_	6	advmod	6:advmod	_
+5	through	through	ADP	IN	_	6	case	6:case	_
+6	mosques	mosque	NOUN	NNS	Number=Plur	3	obl	3:obl:through	SpaceAfter=No
+7	,	,	PUNCT	,	_	8	punct	8:punct	_
+8	madrasas	madrasa	NOUN	NNS	Number=Plur	6	conj	3:obl:through|6:conj:but	_
+9	and	and	CCONJ	CC	_	12	cc	12:cc	_
+10	other	other	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+11	religious	religious	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	establishments	establishment	NOUN	NNS	Number=Plur	6	conj	3:obl:through|6:conj:and	_
+13	but	but	CCONJ	CC	_	16	cc	16:cc	_
+14	also	also	ADV	RB	_	16	advmod	16:advmod	_
+15	through	through	ADP	IN	_	16	mark	16:mark	_
+16	inciting	incite	VERB	VBG	VerbForm=Ger	6	conj	3:obl:through|6:conj:and	_
+17	electronic	electronic	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
+18	and	and	CCONJ	CC	_	19	cc	19:cc	_
+19	printed	print	VERB	VBN	Tense=Past|VerbForm=Part	17	conj	17:conj:and|20:amod	_
+20	media	media	NOUN	NN	Number=Sing	16	obj	16:obj	SpaceAfter=No
+21	.	.	PUNCT	.	_	3	punct	3:punct	_

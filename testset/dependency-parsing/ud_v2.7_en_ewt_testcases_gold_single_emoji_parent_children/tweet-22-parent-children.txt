@@ -1,0 +1,2 @@
+🕌	NNS	3	nsubj
+calling	VBG	0	root

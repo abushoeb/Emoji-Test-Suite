@@ -1,0 +1,4 @@
+✍️	VB	4	conj
+tour	VB	0	root
+and	CC	7	cc
+story	NN	7	obj

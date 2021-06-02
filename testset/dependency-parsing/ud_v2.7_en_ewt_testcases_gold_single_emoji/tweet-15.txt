@@ -1,0 +1,4 @@
+Rate	VB	0	root
+a	DT	3	det
+⛪	NN	1	obj
+?	.	1	punct

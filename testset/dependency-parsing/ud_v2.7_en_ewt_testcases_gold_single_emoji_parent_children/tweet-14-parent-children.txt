@@ -1,0 +1,3 @@
+🥗	NN	3	compound
+salad	NN	5	nsubj
+Chicken	NNP	2	compound

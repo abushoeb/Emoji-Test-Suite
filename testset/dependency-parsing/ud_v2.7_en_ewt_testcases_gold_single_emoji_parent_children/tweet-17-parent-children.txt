@@ -1,0 +1,3 @@
+🦶	NN	7	obl
+get	VB	5	ccomp
+by	IN	10	case

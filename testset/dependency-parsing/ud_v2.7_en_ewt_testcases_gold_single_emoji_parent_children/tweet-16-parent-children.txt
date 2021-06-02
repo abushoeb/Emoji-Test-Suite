@@ -1,0 +1,3 @@
+💡	NN	10	obj
+changed	VBD	4	conj
+a	DT	12	det

@@ -1,0 +1,6 @@
+🤓	NN	14	conj
+looking	VBG	27	advcl
+and	CC	23	cc
+are	VBP	23	cop
+n't	RB	23	advmod
+a	DT	23	det

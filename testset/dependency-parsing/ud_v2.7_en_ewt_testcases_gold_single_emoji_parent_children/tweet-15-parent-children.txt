@@ -1,0 +1,3 @@
+⛪	NN	1	obj
+Rate	VB	0	root
+a	DT	3	det

@@ -1,0 +1,7 @@
+Hey	UH	4	discourse
+I	PRP	4	nsubj
+just	RB	4	advmod
+❤️	VBP	0	root
+your	PRP$	6	nmod:poss
+blog	NN	4	obj
+.	.	4	punct

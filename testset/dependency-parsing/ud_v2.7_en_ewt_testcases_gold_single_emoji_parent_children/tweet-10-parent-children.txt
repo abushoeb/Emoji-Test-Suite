@@ -1,0 +1,3 @@
+😊	JJ	12	conj
+safe	JJ	16	amod
+and	CC	14	cc

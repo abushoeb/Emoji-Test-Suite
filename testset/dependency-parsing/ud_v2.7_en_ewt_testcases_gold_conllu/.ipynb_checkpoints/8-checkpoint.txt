@@ -1,0 +1,12 @@
+# text = Should there be death penalty, for deliberate multiple murders?
+1	Should	should	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
+2	there	there	PRON	EX	_	3	expl	3:expl	_
+3	be	be	VERB	VB	VerbForm=Inf	0	root	0:root	_
+4	death	death	NOUN	NN	Number=Sing	5	compound	5:compound	_
+5	penalty	penalty	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
+6	,	,	PUNCT	,	_	5	punct	5:punct	_
+7	for	for	ADP	IN	_	10	case	10:case	_
+8	deliberate	deliberate	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+9	multiple	multiple	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	murders	murder	NOUN	NNS	Number=Plur	5	nmod	5:nmod:for	SpaceAfter=No
+11	?	?	PUNCT	.	_	3	punct	3:punct	_
