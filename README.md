@@ -1,6 +1,9 @@
 # Emoji Test Suite 👨🏽‍🔬 
 Assessing Emoji Use in Modern Text Processing Tools
 
+### About
+We have developed a test suite to assess the ability of tools to properly handle different kinds of emojis, including skin tone and composite emojis, with regard to tokenization and various natural language processing tasks.
+
 ### Results available for the following tasks:
 - Tokenization
 - Part of speech tagging
